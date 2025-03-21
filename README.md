@@ -1,5 +1,7 @@
 University Website
 
+https://praveenkr398.github.io/UniversityWebsite/
+
 A simple and responsive university website built using only HTML and CSS. This project is designed to showcase a university's information, including courses, faculty, admissions, and contact details.
 
 Features
