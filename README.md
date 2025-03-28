@@ -1,28 +1,33 @@
-University Website
+# 🎓 University Website – HTML & CSS Only  
 
-https://praveenkr398.github.io/UniversityWebsite/
+🔗 **Live Demo:** [Visit Here](https://praveenkr398.github.io/UniversityWebsite/)  
+💻 **GitHub Repo:** [Explore the Code](https://github.com/Praveenkr398/UniversityWebsite)  
 
-A simple and responsive university website built using only HTML and CSS. This project is designed to showcase a university's information, including courses, faculty, admissions, and contact details.
+![University Website Preview](preview.png)  
 
-Features
+## 🚀 About the Project  
+This project is a **University Website** built using **pure HTML and CSS**, ensuring a **clean, simple, and fully responsive** design. It is **mobile-friendly**, optimized for different screen sizes, and structured like a professional university homepage.  
 
-Responsive design for all screen sizes
+## ✨ Features  
+✅ **Modern & Clean UI** – Simple and professional design  
+✅ **Fully Responsive** – Works perfectly on mobile, tablet, and desktop  
+✅ **No JavaScript Used** – Fast and lightweight  
+✅ **Homepage with Key Sections** – Includes About, Courses, Admission, and Contact  
+✅ **Easy Navigation Bar** – Intuitive menu for smooth browsing  
 
-Homepage with university introduction
+## 🛠 Tech Stack  
+- **HTML** – For page structure  
+- **CSS (Flexbox & Grid)** – For styling and layout  
 
-Courses and programs section
+## 🎯 How It Works  
+1️⃣ **Homepage** – Displays a beautiful hero section with a university theme  
+2️⃣ **Courses Section** – Highlights available academic programs  
+3️⃣ **Admission Details** – Provides information about enrollment  
+4️⃣ **Contact Section** – Includes university address, email, and phone  
 
-Faculty and staff information
 
-Admission details
+## 📢 Connect With Me  
+I specialize in **front-end web development, UI/UX design, and building responsive websites**. Open to collaborations and job opportunities!  
 
-Contact page with a form
-
-Fully static website with clean HTML and CSS
-
-Technologies Used
-
-HTML5
-
-CSS3 (Flexbox & Grid for layout)
-
+📌 **LinkedIn:** [Praveen Kumar Pandit](https://www.linkedin.com/in/Praveenkr398)  
+📌 **GitHub:** [Praveenkr398](https://github.com/Praveenkr398)  
