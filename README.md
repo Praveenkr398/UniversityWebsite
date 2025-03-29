@@ -1,9 +1,9 @@
 # 🎓 University Website – HTML & CSS Only  
 
-🔗 **Live Demo:** [Visit Here](https://praveenkr398.github.io/UniversityWebsite/)  
-💻 **GitHub Repo:** [Explore the Code](https://github.com/Praveenkr398/UniversityWebsite)  
-
-![University Website Preview](preview.png)  
+## 🔗 **Live Demo:** 
+[Visit Here](https://praveenkr398.github.io/UniversityWebsite/)  
+## 💻 **GitHub Repo:**
+[Explore the Code](https://github.com/Praveenkr398/UniversityWebsite)  
 
 ## 🚀 About the Project  
 This project is a **University Website** built using **pure HTML and CSS**, ensuring a **clean, simple, and fully responsive** design. It is **mobile-friendly**, optimized for different screen sizes, and structured like a professional university homepage.  
@@ -24,6 +24,9 @@ This project is a **University Website** built using **pure HTML and CSS**, ensu
 2️⃣ **Courses Section** – Highlights available academic programs  
 3️⃣ **Admission Details** – Provides information about enrollment  
 4️⃣ **Contact Section** – Includes university address, email, and phone  
+
+
+![University Website Preview](https://github.com/user-attachments/assets/ee6caaf8-33db-4c57-8c19-9dfe9ec6b435)
 
 
 ## 📢 Connect With Me  
