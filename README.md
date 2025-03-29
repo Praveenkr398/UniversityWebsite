@@ -1,12 +1,12 @@
 # 🎓 University Website – HTML & CSS Only  
 
+## 🚀 About the Project  
+This project is a **University Website** built using **pure HTML and CSS**, ensuring a **clean, simple, and fully responsive** design. It is **mobile-friendly**, optimized for different screen sizes, and structured like a professional university homepage.  
+
 ## 🔗 **Live Demo:** 
 [Visit Here](https://praveenkr398.github.io/UniversityWebsite/)  
 ## 💻 **GitHub Repo:**
 [Explore the Code](https://github.com/Praveenkr398/UniversityWebsite)  
-
-## 🚀 About the Project  
-This project is a **University Website** built using **pure HTML and CSS**, ensuring a **clean, simple, and fully responsive** design. It is **mobile-friendly**, optimized for different screen sizes, and structured like a professional university homepage.  
 
 ## ✨ Features  
 ✅ **Modern & Clean UI** – Simple and professional design  
