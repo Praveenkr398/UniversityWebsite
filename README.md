@@ -6,7 +6,10 @@ This project is a **University Website** built using **pure HTML and CSS**, ensu
 ## 🔗 **Live Demo:** 
 [Visit Here](https://praveenkr398.github.io/UniversityWebsite/)  
 ## 💻 **GitHub Repo:**
-[Explore the Code](https://github.com/Praveenkr398/UniversityWebsite)  
+[Explore the Code](https://github.com/Praveenkr398/UniversityWebsite) 
+
+
+Category:- "Website, HTML, CSS"
 
 ## ✨ Features  
 ✅ **Modern & Clean UI** – Simple and professional design  
